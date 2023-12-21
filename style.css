@@ -20,22 +20,27 @@ body {
     height: 200px;
     background-color: red;
     text-align: center;
+    margin: auto;
 }
 #cube1 {
  background-color: yellow;
+    margin: auto;
 }
 #cube2 {
  border-bottom-left-radius: 1.5rem;
  border-bottom-right-radius: 1.5rem;
  background-color: blue;
+    margin: auto;
 }
 #cube3 {
     background-color: white;
+    margin: auto;
 }
 #cube4 {
     border-top-right-radius: 1.5rem;
     border-bottom-right-radius: 1.5rem;
     background-color: orange;
+    margin: auto;
 }
 #cube5 {
     border-radius: 1.5rem;
@@ -43,22 +48,27 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: auto;
 }
 #cube6 {
     border-top-left-radius: 1.5rem;
     border-bottom-left-radius: 1.5rem;
     background-color: blue;
+    margin: auto;
 }
 #cube7 {
     background-color: white;
+    margin: auto;
 }
 #cube8 {
     border-top-right-radius: 1.5rem;
     border-top-left-radius: 1.5rem;
     background-color: green;
+    margin: auto;
 }
 #cube9 {
     background-color: orange;
+    margin: auto;
 }
 
 .logo {
